@@ -1,0 +1,10 @@
+pandas
+numpy
+beautifulsoup4
+nltk
+langdetect
+brotli
+requests
+lxml
+matplotlib
+subprocess 
